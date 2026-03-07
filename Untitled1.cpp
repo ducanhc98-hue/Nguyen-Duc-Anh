@@ -18,7 +18,7 @@ int main()	{
 			cout<<"Yeu";	
 		}
 	}
-	cout<<"a nam dep trai"<<endl;
+	cout<<"hoc git cung a long"<<endl;
 	return 0;
 }
 
